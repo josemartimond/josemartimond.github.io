@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1252" http-equiv="content-type">
+    <title>nosotros.html</title>
+  </head>
+  <body>
+    <p>Jose Martínez Monteagudo<br>
+    </p>
+    <p> <img style="width: 107px; height: 199px;" src="Imagenes/Mifoto.jpg"> </p>
+    <p> <strong>Academia de Vuelos</strong> </p>
+    <p>Preparamos a futuros pilotos a superar las pruebas para obtener el carné
+      de piloto comercial de vuelo.</p>
+    <p> <img style="width: 187px; height: 187px;" src="Imagenes/Logo.jpg"> </p>
+    <nav> <a href="nuestroservicios.html"> <strong> Nuestros Servicios </strong></a>
+      <p> <a href="../index.html"> <strong>Index<strong></strong></strong></a>
+      </p>
+      <a href="https://github.com/josemartimond/josemartimond.github.io"><strong>Mi
+          Repositorio<strong></strong></strong></a><strong><strong>
+          <p><a href="mailto:josemartimond@hotmail.com"><strong>Correo</strong></a>
+          </p> 
+      </nav>
+    
+  </body>
+</html>
