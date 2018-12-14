@@ -6,8 +6,7 @@
   <body>
     <header>
       <h1> Bienvenido a la Web de Jose Martínez</h1>
-      <img src="EjerciciosTema2/Imagenes/Logo">
-    
+      <img src="EjerciciosTema2/Logo"></img>
     </header>
     <nav> <a href="EjercicioTema2/nosotros"><strong>Sobre nosotros</strong></a>
       <br>
