@@ -157,8 +157,7 @@
               <textarea name="obser" id="obser"></textarea> </div>
           </div>
         </fieldset>
-        <input type="submit" value="enviar">
-      </form>
+        <input value="enviar" type="submit"> </form>
     </article>
   </body>
 </html>
