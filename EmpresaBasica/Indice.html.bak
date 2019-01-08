@@ -93,12 +93,11 @@
     <header>
       <h1> Bienvenido a la Web de Jose Martínez</h1>
       <img src="ejerciciotema3/Logo.jpg" style="width: 152px; height: 152px;">
-      <nav> <p>
-        <a href="EjericiosTema2/nosotros"><strong>Sobre nosotros</strong></a>
-        <br></p>
-        <p>
-        <a href="https://josemartimond.github.io/EmpresaBasica/ejerciciostema4/nuestrosservicios.html"><strong>Nuestros Servicios</strong></a>
-        <br></p>
+      <nav>
+        <p> <a href="EjericiosTema2/nosotros"><strong>Sobre nosotros</strong></a>
+        </p>
+        <p> <a href="ejerciciostema4/nuestrosservicios.html"><strong>Nuestros Servicios</strong></a> </p>
+        <br>
         <a href="https://josemartimond.github.io/EmpresaBasica/EjericiosTema2/ejerciciostema3/opinion.html"><strong>Tu
             opinión cuenta</strong></a> </nav>
       <aside>
