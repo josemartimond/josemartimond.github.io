@@ -1,25 +1,33 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-  <title>Formulario</title>
-</head>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>Formulario</title>
+    <link type="text/css" rel="stylesheet" href="file:///C:/Users/74513763L/Desktop/josemartimond.github.io/EmpresaBasica/ejerciciostema4/CSS/bootstrap-reboot.min.css">
+    <link type="text/css" rel="stylesheet" href="CSS/miCSS.css">
+  </head>
   <body>
     <header>
       <h1>BIENVENIDO A NUESTRA WEB!</h1>
-      <picture><img src="../imagenes/logotipo.jpg" alt="logotipo de mi empresa"></picture>
-    </header>
-    <nav> <a href="ejerciciosTema2/nosotros.html">Nosotros</a> <a href="ejerciciosTema2/nuestrosServicio.html">Nuestros Servicios</a> <a href="../index.html">Atr?s</a> </nav>
+      <picture><img style="width: 113px; height: 209px;" src="imagenes/Mifoto.jpg"
+          alt="mifoto"></picture> </header>
+    <nav> <a href="ejerciciosTema2/nosotros.html">Nosotros</a> <a href="ejerciciosTema2/nuestrosServicio.html">Nuestros
+        Servicios</a> <a href="../index.html">Atr?s</a> </nav>
     <section>
       <header>
         <h1>TU OPINI?N CUENTA</h1>
       </header>
       <article>
         <h3>Rellena con sinceridad</h3>
-      </article>
+        <picture><img style="width: 113px; height: 209px;" src="imagenes/logo.jpg"
+            alt="logotipo de mi empresa" <="" p="">
+          <p><br>
+          </p>
+        </picture></article>
     </section>
     <footer>
       <p>Copyright</p>
       <p>Social Media Links</p>
     </footer>
-</body></html>
+  </body>
+</html>
