@@ -1,15 +1,10 @@
-nav {class="navbar navbar-expand-md navbar-dark fixed-top bg-dark;
-button class="navbar-toggler" type="button";}
-div,a{class="collapse navbar-collapse";
-  
+body> header {color: red; font-family: 'ZCOOL KuaiLe', cursive; "alert alert-success";
+	margin-top: 50px;
 }
-a{class="navbar-brand";}
 
-  
-
-
-
-
-
-
-
+section article p{
+ padding: 2em 1em;
+ margin-bottom: 2em;
+ background-color: #e9ecef;
+ border-radius: 1em;
+}
